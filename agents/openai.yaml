@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考志愿填报助手"
+  short_description: "面向高考生的专业选择、冲稳保排序和院校生活质量核验流程"
+  default_prompt: "Use $gaokao-major-volunteer 带我从分数位次开始完成专业选择、院校筛选、冲稳保排序和风险检查。"
